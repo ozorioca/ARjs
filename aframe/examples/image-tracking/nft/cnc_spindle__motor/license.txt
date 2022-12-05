@@ -1,0 +1,11 @@
+Model Information:
+* title:	CNC Spindle / motor - dummy
+* source:	https://sketchfab.com/3d-models/cnc-spindle-motor-dummy-42048c0ef7e046a0bc19cdf477078efc
+* author:	YouniqueĪdeaStudio (https://sketchfab.com/sinnervoncrawsz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CNC Spindle / motor - dummy" (https://sketchfab.com/3d-models/cnc-spindle-motor-dummy-42048c0ef7e046a0bc19cdf477078efc) by YouniqueĪdeaStudio (https://sketchfab.com/sinnervoncrawsz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
